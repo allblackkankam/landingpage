@@ -212,6 +212,12 @@ hr {
     border-color: var(--danger);
     width: 20%;
 }
+.page-heading{
+    background: url(../img/2.jpg) 0px -500px no-repeat;
+    background-size: cover;
+    padding: 100px 0;
+    background-attachment: fixed;
+}
 
 
 /*////Footer*/
